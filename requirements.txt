@@ -55,3 +55,7 @@ waitress==3.0.2
 Werkzeug==3.1.8
 wsproto==1.2.0
 zipp==3.23.1
+
+python3.9 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
